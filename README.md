@@ -21,7 +21,7 @@ Lab 4. **ICMP Redirect Attack.**\
 Lab 5. **Firewall 01 - Netfilter.**\
 Lab 6. **Firewall 02 - iptables.**\
 Lab 7. **CSRF.**\
-Lab 8. **XSS.**\
+Lab 8. **XSS.**
 
 ## References
 
